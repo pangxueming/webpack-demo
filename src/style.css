@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'MyFont';
+  /* src: url(./FangZhengShuSongJianTi.ttf); */
+  src: url(./FangZhengShuSongJianTi.ttf),
+    url(./RobotoMono-VariableFont_wght.ttf);
+  font-size: 600;
+  font-style: normal;
+}
+
+.hello {
+  color: red;
+  font-family: 'MyFont';
+  background: url(./icon.png);
+}
